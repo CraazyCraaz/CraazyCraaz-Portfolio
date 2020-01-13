@@ -1,0 +1,98 @@
+body {
+    background-color: rgb(156, 154, 154);
+}
+
+footer {
+    background: rgb(59, 59, 59)
+}
+
+
+#mainContainer {
+    background: rgb(173, 173, 173);
+    background: radial-gradient(circle, rgba(173, 173, 173, 1) 0%, rgba(116, 116, 116, 0.884) 45%, rgb(148, 148, 148) 100%);
+    font-family: 'Indie Flower', monospace, fantasy, cursive;
+
+}
+
+#myHeaderName {
+    font-size: 60px;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+#mainAboutMe {
+    font-size: 26px;
+    padding-bottom: 20px;
+}
+
+#mainPortfolio {
+    padding-bottom: 20px;
+}
+
+#imgPortfolio {
+    border-radius: 10px;
+    ;
+}
+
+#mainForm {
+    padding-bottom: 20px;
+    font-size: larger;
+    font-family: monospace, fantasy, cursive;
+}
+
+/* Cooler font for my name */
+.navbar-brand {
+    font-size: 30px;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+/* OMG, BECKY, LOOK AT HER NAVBAR-BRAND, I MEAN, IT JUST ISN'T RIGHT */
+/* I CANNOT FIGURE OUT HOW TO GET THE BACKGROUND TO BE THE FULL 100% HEIGHT OF THE NAVBAR */
+.navbar {
+    margin-bottom: 20px;
+}
+
+.centerLink {
+    position: relative;
+    font-family: monospace, cursive;
+    font-size: 24px;
+    font-weight: bolder;
+    bottom: 30px;
+    background-image: linear-gradient(to right, #314755 0%, #26a0da 51%, #314755 100%);
+    border: solid 2px rgb(37, 37, 37);
+    border-radius: 10px;
+    padding: 10px;
+    width: 40%;
+}
+
+
+a:link,
+a:active,
+a:visited {
+    color: rgba(255, 255, 255, 0.699);
+}
+
+a:hover {
+    color: rgb(58, 57, 57);
+}
+/* ALWAYS ADD MEDIA QUERIES AT THE END SO YOU DON'T OVERWRITE PREVIOUS CODE */
+
+@media screen and (max-width: 980px) {
+
+    body {
+        background-color: rgb(100, 92, 100);
+    }
+}
+
+@media screen and (max-width: 768px) {
+
+    body {
+        background-color: rgb(84, 90, 168);
+    }
+}
+
+@media screen and (max-width: 640px) {
+
+    body {
+        background-color: rgb(124, 52, 120);
+    }    
+}
