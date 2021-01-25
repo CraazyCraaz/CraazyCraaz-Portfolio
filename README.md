@@ -1,4 +1,4 @@
-# A Professional Nerd
+# Portfolio | Jenny Thurnau
 
 ## Cool stuff about me
 
@@ -6,7 +6,7 @@
 
 * My LinkedIn Profile
 
-* Things I've made
-    * Project 1 || War! Card Game w/ drink option
-    * Note Taking App
-    * Developer's easy to create/read Github Profile
+* My Projects
+    * Project 1
+    * Project 2
+    * Project 418
