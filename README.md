@@ -7,6 +7,14 @@
 * My LinkedIn Profile
 
 * My Projects
-    * Project 1
-    * Project 2
-    * Project 418
+    * Tracking List
+    * Note Taking
+    * Employee Tracker
+
+* Technology used
+    * JavaScript
+    * MySQL
+    * Node.js
+        * express
+        * inquirer
+        * sequelize
